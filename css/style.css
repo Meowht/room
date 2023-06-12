@@ -63,7 +63,10 @@ position: absolute;
     white-space: pre;
     align-items: flex-end;
    
+   /* format telephone*/
+   @media screen {
     
+   } 
 }
 .about{
     display: flex;

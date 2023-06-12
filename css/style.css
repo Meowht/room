@@ -25,3 +25,32 @@ position: absolute;
 }
 
 /* section du bas */
+
+.black{
+    
+    background: #000;
+    height: 80px;
+    width: 100px;
+    padding-top:1%;
+    padding-left:2%;
+    padding-right:2%;
+    padding-bottom: 0.5;
+    position: relative;
+   left: 840px;
+   bottom: 103px;
+
+    
+    
+}
+
+.svg3{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    
+
+}
+.svg3 img{
+    width :15px
+}
+

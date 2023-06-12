@@ -37,7 +37,7 @@ position: absolute;
     padding-bottom: 0.5;
     position: relative;
    left: 840px;
-   bottom: 103px;
+   bottom: 108px;
 
     
     
@@ -57,13 +57,38 @@ position: absolute;
 .about{
     display: flex;
 }
-
+.yahoo{
+    color:#A8A8A8;
+    
+}
 .text{
-    display: flex;
-    flex-direction: column;
     
-    white-space: pre;
-    align-items: flex-end;
+    width:50%;
+     display: flex;
+
+ 
+    
+    
+
+
+flex-direction: column;
+ justify-content: flex-end;
+ position: relative;
+ left: 1100px;
+ bottom: 120px;
+ text-align: left;
+font-size: 20px;
+height: 5px; 
+
    
-    
+    white-space: pre;
+}
+
+.titre{
+    font-size: 40px;
+}
+
+.fleche{
+    font-size: 20px;
+    letter-spacing: 15px;
 }

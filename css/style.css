@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "LeagueSpartan";
+    src: url("../font/LeagueSpartan-VariableFont_wght.ttf");
+}
+ 
+ 
+ 
+ /* section du haut  */
+ .navig{
+    position:relative; 
+position: absolute;
+    z-index:1;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    width: 25%;
+    top: 45px;
+    border: red solid;
+    color: white;
+   
+} 
+
+.l{
+    padding-top: 2%;
+}
+
+/* section du bas */

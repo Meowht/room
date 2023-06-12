@@ -93,9 +93,15 @@ height: 5px;
     font-size: 20px;
     letter-spacing: 17px;
 }
+    align-items: flex-end;
+   
+   /* format telephone*/
+   @media screen {
+    
+   } 
+
 .about{
     display: flex;
-    border: 2px red solid;
 }
 .about h1{
     width:100%;

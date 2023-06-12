@@ -54,6 +54,10 @@ position: absolute;
     width :15px
 }
 
+.about{
+    display: flex;
+}
+
 .text{
     display: flex;
     flex-direction: column;

@@ -54,9 +54,7 @@ position: absolute;
     width :15px
 }
 
-.about{
-    display: flex;
-}
+
 
 .text{
     display: flex;
@@ -66,4 +64,16 @@ position: absolute;
     align-items: flex-end;
    
     
+}
+.about{
+    display: flex;
+    border: 2px red solid;
+}
+.about h1{
+    width:100%;
+    text-align: center;
+}
+.about p{
+    width:100%;
+    text-align: center;
 }

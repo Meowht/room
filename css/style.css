@@ -54,3 +54,12 @@ position: absolute;
     width :15px
 }
 
+.text{
+    display: flex;
+    flex-direction: column;
+    
+    white-space: pre;
+    align-items: flex-end;
+   
+    
+}

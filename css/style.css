@@ -95,10 +95,9 @@ height: 5px;
    @media screen {
     
    } 
-}
+
 .about{
     display: flex;
-    border: 2px red solid;
 }
 .about h1{
     width:100%;

@@ -80,6 +80,10 @@ height: 5px;
    
     white-space: pre;
 }
+.yahoo{
+    color:#A8A8A8;
+    
+}
 
 .titre{
     font-size: 40px;
@@ -87,7 +91,7 @@ height: 5px;
 
 .fleche{
     font-size: 20px;
-    letter-spacing: 15px;
+    letter-spacing: 17px;
 }
 .about{
     display: flex;
@@ -101,3 +105,5 @@ height: 5px;
     width:100%;
     text-align: center;
 }
+
+

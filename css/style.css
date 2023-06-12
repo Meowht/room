@@ -57,10 +57,7 @@ position: absolute;
 .about{
     display: flex;
 }
-.yahoo{
-    color:#A8A8A8;
-    
-}
+
 .text{
     
     width:50%;
@@ -91,4 +88,16 @@ height: 5px;
 .fleche{
     font-size: 20px;
     letter-spacing: 15px;
+}
+.about{
+    display: flex;
+    border: 2px red solid;
+}
+.about h1{
+    width:100%;
+    text-align: center;
+}
+.about p{
+    width:100%;
+    text-align: center;
 }
